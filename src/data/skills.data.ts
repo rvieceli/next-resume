@@ -1,0 +1,17 @@
+export const skillsData: string[] = [
+  "JavaScript",
+  "TypeScript",
+  "AWS",
+  "React",
+  "React Native",
+  "GraphQL",
+  "Node.js",
+  "Git",
+  "Problem solving",
+  "Analytical skills",
+  "Teamwork",
+  "Continuous learning",
+  "Serverless",
+  "SQL",
+  "Restful API",
+];
