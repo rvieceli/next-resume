@@ -348,7 +348,7 @@ export const educationData: Education[] = [
 
 I add a config to change highlight color and toggle avatar.
 
-Open [src/data/config.ts][src/data/config.ts]
+Open [src/data/config.ts](src/data/config.ts)
 
 ```ts
 export const config = {
