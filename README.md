@@ -435,17 +435,15 @@ Here is what you need to be able to run Next-Resume
 
 ### Setup
 
-1. Clone the repo into a **private** GitHub repository.
+1. Repository is a `template`, just .
 
-   ```sh
-   git clone https://github.com/rvieceli/next-resume.git
-   ```
+>Click on `Use this template` and then `Create a new repository`  
+><img width="300" alt="image" src="https://github.com/rvieceli/next-resume/assets/2790845/bcd79d33-eb20-48fd-b260-63d93a1a26c0">  
+>Add an available name and use it as `Private`, You might want to add `email` and `phone`.  
+><img width="300" alt="image" src="https://github.com/rvieceli/next-resume/assets/2790845/2134afaf-d773-4b5e-ab29-71d5839b3555">
 
-2. Go to the project folder
 
-   ```sh
-   cd next-resume
-   ```
+2. Then you can clone in your local computer or use `codespaces`.
 
 3. Install packages with yarn
 
