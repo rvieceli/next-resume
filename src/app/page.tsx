@@ -14,7 +14,7 @@ import { WorkExperience } from "../features/work-experience/WorkExperience";
 import { config } from "@src/data/config";
 
 export const metadata: Metadata = {
-  title: "Next-CV",
+  title: "Next Resume",
 };
 
 export default function Page() {
@@ -40,7 +40,7 @@ export default function Page() {
 
         <Languages />
 
-        <Skills />
+        <Skills inverted />
 
         <Certifications />
       </aside>

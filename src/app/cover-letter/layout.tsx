@@ -26,7 +26,7 @@ export default function CoverLetterLayout({
           )}
         >
           <Title />
-          <Contact variant="reverse" />
+          <Contact reverse />
         </header>
         {children}
       </main>

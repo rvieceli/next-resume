@@ -1,3 +1,9 @@
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: "Next cover letter",
+};
+
 export default function Page() {
   return (
     <article className="flex flex-col gap-10  p-[1.5cm]">

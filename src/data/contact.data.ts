@@ -34,7 +34,7 @@ export const contactData: ContactType[] = [
   {
     type: "phone",
     icon: faSquarePhone,
-    value: "your phone number",
+    value: "+1 234 567 890",
   },
   {
     type: "link",
